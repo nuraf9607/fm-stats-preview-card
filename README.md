@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/nuraf9607/fm-stats-preview-card)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://nuraf9607.github.io/fm-stats-preview-card/)
 
 ## My process
 
